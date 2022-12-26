@@ -12,4 +12,5 @@
    "paramName": "SQL_DB_Conn2",
    "type": "mysql",
     "paramValue": "jdbc:sqlserver://local.sqldb.xyz.net:1433;database=eee;user=raisa;password=asdas;encrypt=true;hostNameInCertificate=*.database.windows.net;loginTimeout=30;"
+
 }]
