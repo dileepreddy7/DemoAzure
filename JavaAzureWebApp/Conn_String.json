@@ -5,7 +5,7 @@
 },
 {
    "paramName": "SQL_DB_Conn",
-   
+   "type": "mysql",
     "paramValue": "jdbc:sqlserver://${{SQL_DB_ENVWISE_HOST1}}:1433;database=fiber;user=raisa;password=testpass;encrypt=true;hostNameInCertificate=*.database.windows.net;loginTimeout=30;"
 },
 {
