@@ -9,6 +9,6 @@
   <title>Hello Azure:Existing Production slot</title>
 </head>
 <body>
-  <H1>Hello Azure:staging slot</H1>
+  <H1>Hello Azure</H1>
 </body>
 </html>
